@@ -3,7 +3,6 @@
 <i>Questions? Consider [checking out our site](https://printsci.com) to learn more!</i>
 
 </br>
-</br>
 
 ```
 A manufacturing company expanding the bounds of what is possible.

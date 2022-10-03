@@ -8,7 +8,9 @@
 ```
 A manufacturing company expanding the bounds of what is possible.
 
-
 If we can increase our own abilities and those of others, that is exactly what we must do.
-Ability over inability, action over inaction, understanding over ignorance, Make it happen!
+Ability over inability, action over inaction, understanding over ignorance.
+Build the means by which you will advance further.
+
+Make it happen!
 ```

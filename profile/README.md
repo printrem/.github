@@ -16,9 +16,14 @@ Make it happen!
 
 <h2>Repos hosted here</h2>
 
-<b>Web app back end <b>[GO THERE](https://github.com/printsci/web-back)</b></b>
-<b>Web app front end<b>[GO THERE](https://github.com/printsci/web-front)</b></b>
-<b>Web app admin pannel <b>[GO THERE](https://github.com/printsci/web-admin)</b></b>
-<b>Web app CDN assets <b>[GO THERE](https://github.com/printsci/web-assets)</b></b>
-<b>CAD and CAM assets<b>[GO THERE](https://github.com/printsci/cad-cam-assets)</b></b>
-<b>Company digital assets <b>[GO THERE](https://github.com/printsci/company-assets)</b></b>
+<b>Web app back end [[JUMP]](https://github.com/printsci/web-back)</b>
+
+<b>Web app front end [[JUMP]](https://github.com/printsci/web-front)</b>
+
+<b>Web app admin pannel [[JUMP]](https://github.com/printsci/web-admin)</b>
+
+<b>Web app CDN assets [[JUMP]](https://github.com/printsci/web-assets)</b>
+
+<b>CAD and CAM assets [[JUMP]](https://github.com/printsci/cad-cam-assets)/b>
+
+<b>Company digital assets [[JUMP]](https://github.com/printsci/company-assets)</b>

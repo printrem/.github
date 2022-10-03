@@ -1,4 +1,4 @@
-<h1>'Print Sci'entific Industrial Manufacturing Co.</h1>
+<h1>Print Scientific Industrial Manufacturing Co. "Print Sci"</h1>
 
 ```
 A manufacturing company expanding the bounds of what is possible.

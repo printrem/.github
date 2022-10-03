@@ -14,9 +14,9 @@ Make it happen!
 
 </br>
 
-<h2>Repos hosted here</h2>
+<h1>Quick Links to Repositories</h1>
 
-<b>Web app back end [[JUMP]](https://github.com/printsci/web-back)</b>
+<u>[[JUMP]](https://github.com/printsci/web-back)</u> Web app back end
 
 <b>Web app front end [[JUMP]](https://github.com/printsci/web-front)</b>
 
@@ -24,6 +24,6 @@ Make it happen!
 
 <b>Web app CDN assets [[JUMP]](https://github.com/printsci/web-assets)</b>
 
-<b>CAD and CAM assets [[JUMP]](https://github.com/printsci/cad-cam-assets)/b>
+<b>CAD and CAM assets [[JUMP]](https://github.com/printsci/cad-cam-assets)</b>
 
 <b>Company digital assets [[JUMP]](https://github.com/printsci/company-assets)</b>

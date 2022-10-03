@@ -1,4 +1,4 @@
-<h1>Print Scientific Industrial Manufacturing Co. "Print Sci"</h1>
+<h1>Print Sci - Print Scientific Industrial Manufacturing Co.</h1>
 
 ```
 A manufacturing company expanding the bounds of what is possible.
@@ -10,7 +10,7 @@ Build the means by which you will advance further.
 Make it happen!
 ```
 
-<i>Questions? Consider [checking out our site](https://printsci.com) to learn more!</i>
+<i>Questions? Consider checking out [printsci.com](https://printsci.com) for more!</i>
 
 </br>
 

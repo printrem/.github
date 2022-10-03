@@ -16,14 +16,9 @@ Make it happen!
 
 <h1>Quick Links to Repositories</h1>
 
-<u>[[JUMP]](https://github.com/printsci/web-back)</u> Web app back end
-
-<b>Web app front end [[JUMP]](https://github.com/printsci/web-front)</b>
-
-<b>Web app admin pannel [[JUMP]](https://github.com/printsci/web-admin)</b>
-
-<b>Web app CDN assets [[JUMP]](https://github.com/printsci/web-assets)</b>
-
-<b>CAD and CAM assets [[JUMP]](https://github.com/printsci/cad-cam-assets)</b>
-
-<b>Company digital assets [[JUMP]](https://github.com/printsci/company-assets)</b>
+[[JUMP]](https://github.com/printsci/web-back) - Web App Back End  
+[[JUMP]](https://github.com/printsci/web-front) - Web App Front End  
+[[JUMP]](https://github.com/printsci/web-admin) - Web App Admin Pannel  
+[[JUMP]](https://github.com/printsci/web-assets) - Web App CDN Assets  
+[[JUMP]](https://github.com/printsci/cad-cam-assets) - CAD & CAM Assets  
+[[JUMP]](https://github.com/printsci/company-assets) - Company Digital Assets

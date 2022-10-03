@@ -1,5 +1,5 @@
-<h3>Print Sci</h3>
-<h4>Print Scientific Industry Manufacturing Company</h4>
+<h1>Print Scientific Industrial Manufacturing Co. "Print Sci"</h1>
+
 <i>Questions? Consider [checking out our site](https://printsci.com) to learn more!</i>
 
 ```

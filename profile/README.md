@@ -14,9 +14,8 @@ Make it happen!
 
 </br>
 
-----  
 <h2>Repos hosted here</h2>
-----  
+
 <b>Web app back end <b>[GO THERE](https://github.com/printsci/web-back)</b></b>
 <b>Web app front end<b>[GO THERE](https://github.com/printsci/web-front)</b></b>
 <b>Web app admin pannel <b>[GO THERE](https://github.com/printsci/web-admin)</b></b>

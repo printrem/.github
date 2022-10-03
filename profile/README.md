@@ -12,6 +12,14 @@ Make it happen!
 
 <i>Questions? Consider [checking out our site](https://printsci.com) to learn more!</i>
 
-<h2>Repos hosted here</h2>
+</br>
 
-<b>Web App Front End [Jump >](https://printsci.com)</b>
+----  
+<h2>Repos hosted here</h2>
+----  
+<b>Web app back end <b>[GO THERE](https://github.com/printsci/web-back)</b></b>
+<b>Web app front end<b>[GO THERE](https://github.com/printsci/web-front)</b></b>
+<b>Web app admin pannel <b>[GO THERE](https://github.com/printsci/web-admin)</b></b>
+<b>Web app CDN assets <b>[GO THERE](https://github.com/printsci/web-assets)</b></b>
+<b>CAD and CAM assets<b>[GO THERE](https://github.com/printsci/cad-cam-assets)</b></b>
+<b>Company digital assets <b>[GO THERE](https://github.com/printsci/company-assets)</b></b>

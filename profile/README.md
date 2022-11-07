@@ -1,4 +1,5 @@
-<h1>Print Scientific Industrial Manufacturing Co. "Print Sci"</h1>
+<h1>Print Scientific Research Equipment Manufacturing Co. </h1>
+"PS REM Co." "Print Sci"
 
 ```
 A manufacturing company expanding the bounds of what is possible.

@@ -1,4 +1,4 @@
-<h1>Print Scientific Research Equipment Manufacturing Co. </h1>  
+<h1>Print Scientific Research Equipment Manufacturing Company </h1>  
 
 ```
 Legal Name: 

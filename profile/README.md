@@ -1,6 +1,23 @@
-<h1>Print Sci (Print Scientific Research Equipment Manufacturing Co.)</h1>
+
+<h1>Print Sci</h1>
+
 
 ```
+Legal Name: 
+-
+PS REM Co.
+```
+
+```
+Common Names: 
+-
+Print Sci
+printsci.com
+Print Scientific Research Equipment Manufacturing Co.
+```  
+
+```
+Mission:
 A manufacturing company expanding the bounds of what is possible.
 
 If we can increase our own abilities and those of others, that is exactly what we must do.

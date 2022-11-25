@@ -1,11 +1,11 @@
 
-<h1>Print Scientific Research Equipment Manufacturing Co.</h1>
+<h1>Print Research Equipment Manufacturing</h1>
 
 
 ```
 Legal Name: 
 -
-PS REM Co.
+Print REM Co.
 ```
 
 ```

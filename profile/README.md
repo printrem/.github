@@ -10,7 +10,7 @@ Print REM Co.
 
 ```
 Mission:
-A research equipment manufacturing company driven to support those who MAKE IT HAPPEN!
+A research equipment manufacturing company driven to fortify those who MAKE IT HAPPEN!
 
 If we can increase our own abilities and those of others, that is exactly what we must do.
 Ability over inability, action over inaction, understanding over ignorance.

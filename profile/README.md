@@ -1,5 +1,5 @@
 
-<h1>Print Research Equipment Manufacturing</h1>
+<h1>Print REM</h1>
 
 
 ```
@@ -11,14 +11,14 @@ Print REM Co.
 ```
 Common Names: 
 -
-Print Sci
-printsci.com
-Print Scientific Research Equipment Manufacturing Co.
+Print REM
+printrem.com
+Print Research Equipment Manufacturing
 ```  
 
 ```
 Mission:
-A manufacturing company expanding the bounds of what is possible.
+A research equipment manufacturing company expanding the bounds of what is possible.
 
 If we can increase our own abilities and those of others, that is exactly what we must do.
 Ability over inability, action over inaction, understanding over ignorance.

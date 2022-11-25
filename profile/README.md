@@ -9,16 +9,8 @@ Print REM Co.
 ```
 
 ```
-Common Names: 
--
-Print REM
-printrem.com
-Print Research Equipment Manufacturing
-```  
-
-```
 Mission:
-A research equipment manufacturing company expanding the bounds of what is possible.
+A research equipment manufacturing company driven to support those who MAKE IT HAPPEN!
 
 If we can increase our own abilities and those of others, that is exactly what we must do.
 Ability over inability, action over inaction, understanding over ignorance.

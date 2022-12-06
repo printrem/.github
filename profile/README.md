@@ -25,12 +25,12 @@ Make it happen!
 
 <h1>Quick Links to Repositories</h1>
 
-[[JUMP]](https://github.com/printsci/web-api) - Web App Back End  
-[[JUMP]](https://github.com/printsci/web-front) - Web App Front End  
-[[JUMP]](https://github.com/printsci/web-admin) - Web App Admin Pannel  
-[[JUMP]](https://github.com/printsci/web-assets) - Web App CDN Assets  
-[[JUMP]](https://github.com/printsci/cad-cam-assets) - CAD & CAM Assets  
-[[JUMP]](https://github.com/printsci/company-assets) - Company Digital Assets
+[[JUMP]](https://github.com/printrem/web-api) - Web App Back End  
+[[JUMP]](https://github.com/printrem/web-front) - Web App Front End  
+[[JUMP]](https://github.com/printrem/web-admin) - Web App Admin Pannel  
+[[JUMP]](https://github.com/printrem/web-assets) - Web App CDN Assets  
+[[JUMP]](https://github.com/printrem/cad-cam-assets) - CAD & CAM Assets  
+[[JUMP]](https://github.com/printrem/company-assets) - Company Digital Assets
 
 
 <img alt="TFlow Magnetized" src="http://d1oe4q7w4od22g.cloudfront.net/images/tflow-assem-flowsim.png"/>

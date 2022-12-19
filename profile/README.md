@@ -20,7 +20,7 @@ Make it happen! | reman.co
 
 [[JUMP]](https://github.com/reman-co/web-api) - Web App Back End  
 [[JUMP]](https://github.com/reman-co/web-front) - Web App Front End  
-[[JUMP]](https://github.com/reman-co/web-admin) - Web App Admin Pannel  
+[[JUMP]](https://github.com/reman-co/web-int) - Web App Admin Pannel  
 [[JUMP]](https://github.com/reman-co/web-assets) - Web App CDN Assets  
 [[JUMP]](https://github.com/reman-co/cad-cam-assets) - CAD & CAM Assets  
 [[JUMP]](https://github.com/reman-co/company-assets) - Company Digital Assets

@@ -20,15 +20,15 @@ Make it happen! | reman.co
 
 <h1>Quick Links to Repositories</h1>
 
-[[JUMP]](https://github.com/reman-co/department-assets) - Department Assets  
-[[JUMP]](https://github.com/reman-co/product-assets) - Product Assets  
-[[JUMP]](https://github.com/reman-co/general-assets) - General Assets  
+[[JUMP]](https://github.com/reman-co/gp2-department-assets) - Department Assets  
+[[JUMP]](https://github.com/reman-co/gp2-product-assets) - Product Assets  
+[[JUMP]](https://github.com/reman-co/gp2-general-assets) - General Assets  
 <br>
-[[JUMP]](https://github.com/reman-co/web-front-public) - Web Front Public  
-[[JUMP]](https://github.com/reman-co/web-front-internal) - Web Front Internal  
-[[JUMP]](https://github.com/reman-co/web-back) - Web Backend  
-[[JUMP]](https://github.com/reman-co/web-data) - Web Data  
-[[JUMP]](https://github.com/reman-co/web-static) - Web Static Content  
+[[JUMP]](https://github.com/reman-co/gp2-web-front-public) - Web Front Public  
+[[JUMP]](https://github.com/reman-co/gp2-web-front-internal) - Web Front Internal  
+[[JUMP]](https://github.com/reman-co/gp2-web-back) - Web Backend  
+[[JUMP]](https://github.com/reman-co/gp2-web-data) - Web Data  
+[[JUMP]](https://github.com/reman-co/gp2-web-static) - Web Static Content  
 
 
 <img alt="TFlow Magnetized" src="http://d1oe4q7w4od22g.cloudfront.net/images/tflow-assem-flowsim.png"/>

@@ -13,7 +13,8 @@ Build the means by which you will advance further.
 Make it happen! | reman.co
 ```
 
-<i>Questions? Consider checking out  [https://reman.co](https://reman.co)  for more!</i>
+<i>Questions? Consider checking out  [https://reman.co](https://reman.co)  for more!</i>  
+<i>Follow us on LinkedIn for updates!  [https://www.linkedin.com/company/reman-co](https://www.linkedin.com/company/reman-co)</i>  
 
 <br>
 

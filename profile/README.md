@@ -18,7 +18,7 @@ Make it happen! | reman.co
 
 <br>
 
-<h1>Quick Links to Repositories</h1>
+<h1>Quick Links to Repositories (GP2)</h1>
 
 [[JUMP]](https://github.com/reman-co/gp2-department-assets) - Department Assets  
 [[JUMP]](https://github.com/reman-co/gp2-product-assets) - Product Assets  

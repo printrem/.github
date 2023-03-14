@@ -3,7 +3,7 @@
 
 ```
 Mission:
-Reman is a research equipment manufacturing company driven to fortify those who MAKE IT HAPPEN!
+Reman is a technology company focused on the design, manufacturing, and delivery of simple and effective research equipment to those who MAKE IT HAPPEN! 
 
 If we can increase our own abilities and those of others, that is exactly what we must do.
 Ability over inability, action over inaction, understanding over ignorance.
@@ -14,16 +14,19 @@ Make it happen! | reman.co
 
 <i>Questions? Consider checking out  [https://reman.co](https://reman.co)  for more!</i>
 
-</br>
+<br>
 
 <h1>Quick Links to Repositories</h1>
 
-[[JUMP]](https://github.com/reman-co/web-api) - Web App Back End  
-[[JUMP]](https://github.com/reman-co/web-front) - Web App Front End  
-[[JUMP]](https://github.com/reman-co/web-int) - Web App Internal Workstation  
-[[JUMP]](https://github.com/reman-co/web-assets) - Web App CDN Assets  
-[[JUMP]](https://github.com/reman-co/cad-cam-assets) - CAD & CAM Assets  
-[[JUMP]](https://github.com/reman-co/company-assets) - Company Digital Assets
+[[JUMP]](https://github.com/reman-co/department-assets) - Department Assets  
+[[JUMP]](https://github.com/reman-co/product-assets) - Product Assets  
+[[JUMP]](https://github.com/reman-co/general-assets) - General Assets  
+<br>
+[[JUMP]](https://github.com/reman-co/web-front-public) - Web Front Public  
+[[JUMP]](https://github.com/reman-co/web-front-internal) - Web Front Internal  
+[[JUMP]](https://github.com/reman-co/web-back) - Web Backend  
+[[JUMP]](https://github.com/reman-co/web-data) - Web Data  
+[[JUMP]](https://github.com/reman-co/web-static) - Web Static Content  
 
 
 <img alt="TFlow Magnetized" src="http://d1oe4q7w4od22g.cloudfront.net/images/tflow-assem-flowsim.png"/>

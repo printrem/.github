@@ -3,7 +3,8 @@
 
 ```
 Mission:
-Reman is a technology company focused on the design, manufacturing, and delivery of simple and effective research equipment to those who MAKE IT HAPPEN! 
+Reman is a technology company focused on the design, manufacturing, and delivery of simple and 
+effective research equipment to those who MAKE IT HAPPEN! 
 
 If we can increase our own abilities and those of others, that is exactly what we must do.
 Ability over inability, action over inaction, understanding over ignorance.
